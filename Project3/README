@@ -1,0 +1,9 @@
+The program will prompt for all of the user input values all at once.
+Please enter the input values in the following order, with each value separated by a space:
+
+NDice, NSides, LTarget, UTarget, M, NGames
+
+Example: "2 6 4 4 100 100000"
+
+Then, once the inputs have been typed in, press enter to run the program.
+

@@ -1,0 +1,10 @@
+The program should have two parameters, supplied on the command line: The first parameter is
+the file name for the corpus. The second input is a user input of an integer N, which is the number
+of entries in the corpus to use as the training set. The program will use the first N biographies in
+the corpus as the training set and the rest as the test set. 
+The sample input file that was provided in the project outline is included in the submission folder.
+
+After compiling the program using javac,
+Run the program on the command line with the arguments: java textClassifier [filename] [N]
+
+ex: java textClassifier input.txt 5
